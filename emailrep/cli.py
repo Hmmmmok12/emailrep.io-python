@@ -10,7 +10,7 @@ def main():
     config = load_config()
 
     emailrep = EmailRep(
-        key=config.get('emailrep', 'key'),
+        key=config.get('', 'key'),
         proxy=proxy)
 
     try:

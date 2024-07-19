@@ -8,7 +8,7 @@ from emailrep import EmailRep
 
 CONF_PATH = os.path.expanduser("~/.config/sublime")
 CONF_FILE = os.path.join(CONF_PATH, "setup.cfg")
-CONF_DEFAULTS = {"emailrep": {"key": ""}}
+CONF_DEFAULTS = {"theepiccp@hotmail.com": {"sk_live_66968955b7f5540839cd2c09_key_vtn3b2sr08h": ""}}
 
 
 def parse_args():
